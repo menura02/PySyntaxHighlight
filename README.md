@@ -179,9 +179,9 @@ if __name__ == "__main__":
 ```
 ## 7. Medium ve Youtube Linkleri
 
-Youtube videosuna gidebilmek için [buraya](https://borfirbora.com) tıklayabilirsiniz.
+Youtube videosuna gidebilmek için [buraya](https://www.youtube.com/watch?v=agDRtsTMg3w) tıklayabilirsiniz.
 
-Medium sayfasına gidebilmek için [buraya](https://borfirbora.com) tıklayabilirsiniz.
+Medium sayfasına gidebilmek için [buraya](https://medium.com/@3erenerturk3/pysyntaxhighlight-python-i%C3%A7in-ger%C3%A7ek-zamanl%C4%B1-s%C3%B6zdizimi-vurgulay%C4%B1c%C4%B1-28abe0ceeff5) tıklayabilirsiniz.
 
 ## 8. Sonuç
 
