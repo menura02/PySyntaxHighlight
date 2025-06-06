@@ -8,6 +8,8 @@ Bu proje, kullanıcıların Python kodlarını yazarken belirteç türlerini an�
 Örneğin, bir `def` anahtar kelimesi yazıldığında bu kelime hemen mavi renkte görünür. Uygulama, açık ve koyu tema seçeneklerine sahiptir ve metin düzenleme için standart `Text` bileşeni kullanılır.
 Vurgulama mantığı tamamen projeye özel olarak tasarlanmıştır; herhangi bir hazır kütüphane kullanılmaz.
 
+![Screenshot](https://github.com/user-attachments/assets/e33f9f64-f2e9-4223-a646-0c6a1e9e0fad)
+
 ## 2. Dil ve Dilbilgisi Seçimi
 
 Proje için Python programlama dili tercih edilmiştir. Sebepleri şunlardır:
@@ -175,8 +177,13 @@ if __name__ == "__main__":
     app = SyntaxHighlighterGUI(root)
     root.mainloop()
 ```
+## 7. Medium ve Youtube Linkleri
 
-## 7. Sonuç
+Youtube videosuna gidebilmek için [buraya](https://borfirbora.com) tıklayabilirsiniz.
+
+Medium sayfasına gidebilmek için [buraya](https://borfirbora.com) tıklayabilirsiniz.
+
+## 8. Sonuç
 
 PySyntaxHighlight, gerçek zamanlı sözdizimi vurgulama ve analiz yetenekleri ile Python geliştiricilerine güçlü bir araç sunar. Proje sıfırdan yazılmış Lexer ve Parser bileşenleriyle hazır kütüphanelerden bağımsız olarak çalışır.
 
